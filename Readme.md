@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Alexander
 
-🎓 **20 years old | Dual Computer Science Student | Java Backend Developer**
+🎓 **21 years old | Dual Computer Science Student | Java Backend Developer**
 
 Welcome to my GitHub profile!  
 I'm currently studying **Computer Science in a dual program** while working as a **Java backend developer**.  
