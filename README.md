@@ -7,7 +7,3 @@
 - 🏠 **Homelab:** self-hosting, networking, and streaming games between two apartments → [read the write-up](https://github.com/alexandergorka/homelab)
 - 🤖 **AI pair:** I work with **Carlos** 🐕, my self-hosted AI assistant (OpenClaw) — you'll spot it in my commit history and the homelab docs
 - 🌱 Currently exploring: self-hosted stacks, mesh/VPN networking, AI tooling
-
----
-
-<sub>⚡ _"Backend by day, homelab by night."</sub>
